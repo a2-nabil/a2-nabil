@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a2-nabil&label=Profile%20views&color=0e75b6&style=flat" alt="a2-nabil" /> </p>
 
-- 💬 Ask me about **JavaScript, TypeScript, ReactJS, NextJS, Firebase Auth, HTML5, CSS3, MongoDB, NodeJS, ExpressJS, JSON Web Token, php, Laravel, Mysql**
+- 💬 Ask me about **WordPress, WooCommerce, JavaScript, TypeScript, ReactJS, NextJS, Firebase Auth, HTML5, CSS3, MongoDB, NodeJS, ExpressJS, JSON Web Token, php, Laravel, Mysql, Docker**
 
 - 📫 How to reach me **a2nabil000@gmail.com**
 
