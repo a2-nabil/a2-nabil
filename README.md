@@ -18,32 +18,6 @@ Strong background in **full-stack development, WordPress, WooCommerce, Shopify, 
 𝟓. **AI & Automation:** Generative AI, AI Agents, LLM APIs, Prompt Engineering, RAG, Embeddings, Tool Calling, AI Automation, n8n, Make, Zapier, Workflow Automation
 
 𝟔. **Cloud & DevOps:** AWS, DigitalOcean, Linux, Docker, Git, GitHub, CI/CD, Nginx, Server Management, DNS, SSL, Deployment & Performance Optimization
-
-### Impact & Achievements
-
-𝟏. Built and customized **scalable WordPress, WooCommerce, and Shopify eCommerce platforms** with custom dashboards, product systems, checkout flows, membership features, and business-specific functionality.
-
-𝟐. Developed **custom WordPress themes, plugins, Elementor widgets, Gutenberg blocks, WooCommerce functionality, and API integrations**.
-
-𝟑. Delivered **Figma-to-production websites and eCommerce experiences** with responsive, reusable, and performance-focused frontend architecture.
-
-𝟒. Built and integrated **REST APIs, third-party services, payment systems, CRM integrations, webhooks, and automated business workflows**.
-
-𝟓. Experienced in building **AI-powered applications and automation systems**, with a growing focus on LLM integrations, AI agents, RAG, and intelligent workflows.
-
-### Engineering Approach
-
-𝟏. Clean, maintainable, reusable, and scalable code
-𝟐. SOLID, DRY, KISS, and YAGNI principles
-𝟑. API-first development and modular architecture
-𝟒. Performance, security, scalability, and reliability
-𝟓. Automation-driven and product-focused engineering
-
-### Current Focus
-
-Building **modern SaaS products, AI-powered applications, eCommerce platforms, automation systems, and scalable web solutions**, while expanding deeper into **Generative AI, AI Agents, backend engineering, cloud infrastructure, and intelligent automation**.
-
-Open to **Software Engineer, Full-Stack Engineer, Backend Engineer, Web Engineer, WordPress Developer, Shopify Developer, eCommerce Engineer, and GenAI/AI Engineer** roles — especially with product-driven startups and high-growth teams.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a2-nabil&label=Profile%20views&color=0e75b6&style=flat" alt="a2-nabil" /> </p>
