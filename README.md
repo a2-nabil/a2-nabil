@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nabil</h1>
-<h3 align="center">## About
-
+<h3 align="center">
 I'm a **Software Engineer and Full-Stack Web Engineer** with **5+ years of experience** building production-ready websites, eCommerce platforms, SaaS applications, automation systems, and AI-powered solutions.
 
 Strong background in **full-stack development, WordPress, WooCommerce, Shopify, backend engineering, API integration, automation, cloud technologies, and modern web development**, with hands-on experience across **development, customization, deployment, optimization, and maintenance**.
