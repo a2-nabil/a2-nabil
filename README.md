@@ -1,9 +1,52 @@
 <h1 align="center">Hi 👋, I'm Nabil</h1>
-<h3 align="center">Creating digital experiences that combine art and technology. As a seasoned Full Stack Web Alchemist, I combine code and imagination to bring websites to life. What is my superpower? WordPress is being transformed into a blank canvas with endless possibilities. I'm the genius you want on your side whether it comes to elegant front-end designs, robust back-end functionality, or solving complicated web challenges. Let's get together and make your digital ideas a reality!" I am a highly skilled site developer and WordPress specialist. I have a website design and development degree. I have excellent coding skills, allowing me to design practically everything on a website. You can also be confident in the quality and security of your website. I will go out of my way to help you.</h3>
+<h3 align="center">## About
+
+I'm a **Software Engineer and Full-Stack Web Engineer** with **5+ years of experience** building production-ready websites, eCommerce platforms, SaaS applications, automation systems, and AI-powered solutions.
+
+Strong background in **full-stack development, WordPress, WooCommerce, Shopify, backend engineering, API integration, automation, cloud technologies, and modern web development**, with hands-on experience across **development, customization, deployment, optimization, and maintenance**.
+
+### Core Expertise
+
+𝟏. **Full-Stack Development:** JavaScript, TypeScript, PHP, Python, React.js, Next.js, Node.js, Express.js, REST APIs, GraphQL, HTML5, CSS3, Tailwind CSS
+
+𝟐. **WordPress & WooCommerce:** Custom Themes, Plugins, Elementor, Gutenberg, ACF, WooCommerce, Hooks & Filters, Custom Dashboards, Checkout & Cart Customization, REST API, Figma-to-WordPress
+
+𝟑. **Shopify & eCommerce:** Shopify, Liquid, Theme Development, Custom Sections, Metafields, Product & Collection Customization, Cart & Checkout, Shopify APIs, WooCommerce, eCommerce Optimization
+
+𝟒. **Backend & Database:** Node.js, PHP, Python, MySQL, PostgreSQL, MongoDB, Redis, Prisma, API Development, Authentication, Webhooks, Third-Party Integrations
+
+𝟓. **AI & Automation:** Generative AI, AI Agents, LLM APIs, Prompt Engineering, RAG, Embeddings, Tool Calling, AI Automation, n8n, Make, Zapier, Workflow Automation
+
+𝟔. **Cloud & DevOps:** AWS, DigitalOcean, Linux, Docker, Git, GitHub, CI/CD, Nginx, Server Management, DNS, SSL, Deployment & Performance Optimization
+
+### Impact & Achievements
+
+𝟏. Built and customized **scalable WordPress, WooCommerce, and Shopify eCommerce platforms** with custom dashboards, product systems, checkout flows, membership features, and business-specific functionality.
+
+𝟐. Developed **custom WordPress themes, plugins, Elementor widgets, Gutenberg blocks, WooCommerce functionality, and API integrations**.
+
+𝟑. Delivered **Figma-to-production websites and eCommerce experiences** with responsive, reusable, and performance-focused frontend architecture.
+
+𝟒. Built and integrated **REST APIs, third-party services, payment systems, CRM integrations, webhooks, and automated business workflows**.
+
+𝟓. Experienced in building **AI-powered applications and automation systems**, with a growing focus on LLM integrations, AI agents, RAG, and intelligent workflows.
+
+### Engineering Approach
+
+𝟏. Clean, maintainable, reusable, and scalable code
+𝟐. SOLID, DRY, KISS, and YAGNI principles
+𝟑. API-first development and modular architecture
+𝟒. Performance, security, scalability, and reliability
+𝟓. Automation-driven and product-focused engineering
+
+### Current Focus
+
+Building **modern SaaS products, AI-powered applications, eCommerce platforms, automation systems, and scalable web solutions**, while expanding deeper into **Generative AI, AI Agents, backend engineering, cloud infrastructure, and intelligent automation**.
+
+Open to **Software Engineer, Full-Stack Engineer, Backend Engineer, Web Engineer, WordPress Developer, Shopify Developer, eCommerce Engineer, and GenAI/AI Engineer** roles — especially with product-driven startups and high-growth teams.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a2-nabil&label=Profile%20views&color=0e75b6&style=flat" alt="a2-nabil" /> </p>
-
-- 💬 Ask me about **WordPress, WooCommerce, JavaScript, jQuery, API, TypeScript, ReactJS, NextJS, Firebase Auth, HTML5, CSS3, MongoDB, NodeJS, ExpressJS, JSON Web Token, php, Laravel, Mysql, Docker**
 
 - 📫 How to reach me **a2nabil000@gmail.com**
 
